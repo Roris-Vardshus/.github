@@ -1,5 +1,7 @@
 # Roris Värdshus
 
+**Editor's note**: Roris Värdshus (Nordic) translated into English is Rori's Tavern
+
 Welcome to the vibrant world of Roris Värdshus! 🌏 We are a passionate Indonesian non-profit organization brimming with brilliant young coders, spanning from talented vocational high school students to ambitious college-goers. Our journey began with a shared personal interest, converging on our lively and thriving Discord server.
 
 Within the digital realm, we've created a dynamic haven where innovation knows no bounds! Our diverse community of tech enthusiasts collaborates and codes together, fostering an environment where learning, creativity, and friendship intertwine seamlessly.
